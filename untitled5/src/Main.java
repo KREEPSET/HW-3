@@ -16,7 +16,7 @@ public class Main {
         double d = 2.2;
         System.out.println("Значение переменной d с типом double равно " + d);
         System.out.println();
-        //Задание 2
+
 
         byte byteOne = 67;
         short shortOne = -159;
