@@ -18,7 +18,6 @@ public class Main {
         } else {
         }
 
-
         System.out.println("На улице " + temperature1 + " градусов" + ", можно идти без шапки.");
 
         System.out.println();
@@ -29,7 +28,6 @@ public class Main {
             System.out.println("Если скорость " + speed1 + ", то придется заплатить штраф.");
         } else {
         }
-
 
         System.out.println("Если скорость " + speed1 + ", можно ездить спокойно.");
 
