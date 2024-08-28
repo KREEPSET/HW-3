@@ -7,7 +7,6 @@ public class Main {
         } else {
         }
 
-
         System.out.println("Если возраст человека равен " + age1 + ", то ты не достиг совершеннолетния, нужно немного подождать.");
 
         System.out.println();
